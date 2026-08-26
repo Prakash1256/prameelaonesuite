@@ -1,4 +1,6 @@
-# Company Manager
+# Company Manager 
+
+Live URL : https://parmeelaonesolution-d53zuv403-kunwar-prakash-singhs-projects.vercel.app/
 
 A small full-stack application for managing companies. The backend uses Express and PostgreSQL, and the frontend uses React, Vite, and TypeScript.
 <img width="2872" height="1420" alt="image" src="https://github.com/user-attachments/assets/a2296567-1d32-42b0-9da0-c38ef30c17ba" />
@@ -107,10 +109,3 @@ VITE_API_URL=http://localhost:4000/api
 - Database migrations are represented by a single SQL schema file rather than a full migration tool.
 - Deployment configuration is documented but not connected to a live hosting account.
 
-## Future Improvements
-
-- Add authentication and authorization.
-- Add edit company support.
-- Replace the SQL schema file with a migration tool such as Drizzle Kit, Prisma Migrate, or node-pg-migrate.
-- Add end-to-end tests with Playwright.
-- Add production deployment manifests for Render, Railway, or Fly.io.
