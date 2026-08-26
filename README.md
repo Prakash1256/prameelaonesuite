@@ -1,6 +1,7 @@
 # Company Manager
 
 A small full-stack application for managing companies. The backend uses Express and PostgreSQL, and the frontend uses React, Vite, and TypeScript.
+<img width="2872" height="1420" alt="image" src="https://github.com/user-attachments/assets/a2296567-1d32-42b0-9da0-c38ef30c17ba" />
 
 ## Features
 
